@@ -1,28 +1,11 @@
 {
     "1" : {
-        "nombre" : "dado1",
-        "rango" : "1-7",
+        "nombre" : "3 Dados",
+        "rango" : "1-6",
         "intervalo" : 1,
-        "operation" : "add",
+        "operacion" : "suma",
         "distribucion" : "uniforme_discreta",
-        "iteraciones" : 1000000
-    },
-    "2" : {
-        "nombre" : "dado2",
-        "rango" : "1-7",
-        "intervalo" : 1,
-        "operation" : "add",
-        "distribucion" : "uniforme_discreta",
-        "iteraciones" : 1000000
-    },
-    "3" : {
-        "nombre" : "dado3",
-        "rango" : "1-7",
-        "intervalo" : 1,
-        "operation" : "add",
-        "distribucion" : "uniforme_discreta",
-        "iteraciones" : 1000000
+        "iteraciones" : 1000000,
+        "cantidad" : 4
     }
-
-
 }
